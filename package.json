@@ -1,0 +1,33 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "description": "f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaled-17/weptool.git"
+  },
+  "author": "ff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaled-17/weptool/issues"
+  },
+  "homepage": "https://github.com/khaled-17/weptool#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-terser": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-replace-path": "^0.4.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-useref": "^5.0.0"
+  }
+}
